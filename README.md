@@ -1,4 +1,4 @@
-# Bikes-Resale-Analysis-in-Excel
+# Bike-Sales-Analysis-in-Excel
 Includes resale trends, mileage insights, and region-wise performance
 
 
