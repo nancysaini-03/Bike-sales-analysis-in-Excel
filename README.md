@@ -1,4 +1,4 @@
-# Bike-Sales-Analysis-in-Excel
+# Bikes-Resale-Analysis-in-Excel
 Includes resale trends, mileage insights, and region-wise performance
 
 
@@ -6,7 +6,6 @@ Includes resale trends, mileage insights, and region-wise performance
 
 This project is an interactive **Excel dashboard** created to analyze and visualize sales data for a **bike company operating across India**. It simulates a real-world business scenario where a data analyst helps track sales performance, identify trends, and generate insights for decision-making.
 
----
 
 ## 📊 Dashboard Highlights
 This includes:
@@ -32,6 +31,24 @@ This includes:
 
 ---
 
+## 📊 Dashboard visualization preview
+
+![Bikes_Sales_Dashboard](https://github.com/user-attachments/assets/7347869d-fc6b-4e87-9e46-fb90a2bc09cd)
+
+---
+
+## 🔍 Key Insights
+
+The state Punjab has the highest total number of bikes sold in India.
+The brand Bajaj has a marginally higher average resale price than other brands.
+Bike registrations have increased steadily over the last two years.
+Most bikes owned by the first owner use petrol as fuel.
+The model NTorq 125 delivers the highest mileage among all bikes.
+Tier 3 cities show a higher average resale price compared to Tier 1, Tier 2 and Metro cities.
+Dealers list more bikes for sale than individual sellers.
+The majority of bikes have active insurance coverage compared to those without insurance.
+
+
 ## 🧠 Skills Demonstrated
 
  - Data cleaning and transformation in Excel
@@ -41,7 +58,6 @@ This includes:
  - Data storytelling and visual analytics
  - Identifying regional and product performance trends
 
-## A sneak peek 🫣 of the Dashboard
+## 📬 Feedback
 
-![Bikes_Sales_Dashboard](https://github.com/user-attachments/assets/7347869d-fc6b-4e87-9e46-fb90a2bc09cd)
-
+I welcome any feedback or suggestions to improve this project.   
