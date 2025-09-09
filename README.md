@@ -1,4 +1,4 @@
-# Bike-Sales-Analysis-in-Excel
+# 🚴‍♂️Bike-Sales-Analysis-in-Excel
 Includes resale trends, mileage insights, and region-wise performance
 
 
@@ -39,14 +39,14 @@ This includes:
 
 ## 🔍 Key Insights
 
- - The state Punjab has the highest total number of bikes sold in India.
- - The brand Bajaj has a marginally higher average resale price than other brands.
- - Bike registrations have increased steadily over the last two years.
- - Most bikes owned by the first owner use petrol as fuel.
- - The model NTorq 125 delivers the highest mileage among all bikes.
- - Tier 3 cities show a higher average resale price compared to Tier 1, Tier 2 and Metro cities.
- - Dealers list more bikes for sale than individual sellers.
- - The majority of bikes have active insurance coverage compared to those without insurance.
+ - Punjab leads in total bike sales across India, suggesting targeted marketing and distribution can further increase sales.
+ - Bajaj holds a slightly higher average resale value than competitors, reflecting strong brand value and customer loyalty, useful for pricing and inventory decisions.
+ - Bike registrations have increased steadily over the last two years which indicates expanding market demand, highlighting growth opportunities for sales and after-sales services.
+ - Petrol is the predominant fuel type among bikes that suggests consumer preference for petrol bikes, which can inform production and infrastructure planning.
+ - The model NTorq 125 delivers the highest mileage among all bikes making it attractive to cost-conscious buyers focused on fuel efficiency.
+ - Tier 3 cities showed higher average resale prices, suggesting stronger resale markets or lower depreciation in smaller cities.
+ - Dealers have listed more bikes than individuals, pointing to a dealer-driven market with broader inventory options.
+ - Most bikes have active insurance coverage, indicating growing awareness of vehicle protection and legal compliance.
 
 
 ## 🧠 Skills Demonstrated
