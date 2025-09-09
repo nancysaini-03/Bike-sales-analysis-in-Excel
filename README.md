@@ -39,14 +39,14 @@ This includes:
 
 ## 🔍 Key Insights
 
-The state Punjab has the highest total number of bikes sold in India.
-The brand Bajaj has a marginally higher average resale price than other brands.
-Bike registrations have increased steadily over the last two years.
-Most bikes owned by the first owner use petrol as fuel.
-The model NTorq 125 delivers the highest mileage among all bikes.
-Tier 3 cities show a higher average resale price compared to Tier 1, Tier 2 and Metro cities.
-Dealers list more bikes for sale than individual sellers.
-The majority of bikes have active insurance coverage compared to those without insurance.
+ - The state Punjab has the highest total number of bikes sold in India.
+ - The brand Bajaj has a marginally higher average resale price than other brands.
+ - Bike registrations have increased steadily over the last two years.
+ - Most bikes owned by the first owner use petrol as fuel.
+ - The model NTorq 125 delivers the highest mileage among all bikes.
+ - Tier 3 cities show a higher average resale price compared to Tier 1, Tier 2 and Metro cities.
+ - Dealers list more bikes for sale than individual sellers.
+ - The majority of bikes have active insurance coverage compared to those without insurance.
 
 
 ## 🧠 Skills Demonstrated
