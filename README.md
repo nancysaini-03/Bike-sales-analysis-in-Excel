@@ -41,7 +41,7 @@ This includes:
 - Data storytelling and visual analytics
 - Identifying regional and product performance trends
 
-## A sneak peek of the Dashboard
+## A sneak peek 🫣 of the Dashboard
 
 ![Bikes_Sales_Dashboard](https://github.com/user-attachments/assets/7347869d-fc6b-4e87-9e46-fb90a2bc09cd)
 
