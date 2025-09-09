@@ -27,7 +27,7 @@ This includes:
   - State – Focus on specific regions across India  
   - City Tier – View data by metro, tier1, tier-2, or tier-3 city classification  
   - Fuel Type – Filter by Petrol, Hybrid, Electric
-  - Owner Type – View trends by number of previous owners.
+  - Owner Type – View trends by number of previous owners
 
 ---
 
