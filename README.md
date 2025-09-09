@@ -16,30 +16,30 @@ This includes:
   - Total Revenue
 
 - 📈 **Bike Registration Trend**:
- - Year-wise Trend of Bike Registrations
+  - Year-wise Trend of Bike Registrations
 
 - 🚲 **Product Insights**:
- - Average Resale Price by Brand	
- - Top 5 Fuel Efficient Models (by Mileage)
- - Average Resale Price by City Tier
- - Average Price vs Resale Price Comparison
+  - Average Resale Price by Brand	
+  - Top 5 Fuel Efficient Models (by Mileage)
+  - Average Resale Price by City Tier
+  - Average Price vs Resale Price Comparison
 
 - 🎛️ **Interactive Filters**:
- - State – Focus on specific regions across India  
- - City Tier – View data by metro, tier1, tier-2, or tier-3 city classification  
- - Fuel Type – Filter by Petrol, Hybrid, Electric
- - Owner Type – View trends by number of previous owners.
+  - State – Focus on specific regions across India  
+  - City Tier – View data by metro, tier1, tier-2, or tier-3 city classification  
+  - Fuel Type – Filter by Petrol, Hybrid, Electric
+  - Owner Type – View trends by number of previous owners.
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-- Data cleaning and transformation in Excel
-- Creating Pivot Tables and Pivot Charts
-- Building interactive dashboards with slicers
-- Using Excel formulas (`IF`, `VLOOKUP`, `SUMIF`, etc.)
-- Data storytelling and visual analytics
-- Identifying regional and product performance trends
+ - Data cleaning and transformation in Excel
+ - Creating Pivot Tables and Pivot Charts
+ - Building interactive dashboards with slicers
+ - Using Excel formulas (`IF`, `VLOOKUP`, `SUMIF`, etc.)
+ - Data storytelling and visual analytics
+ - Identifying regional and product performance trends
 
 ## A sneak peek 🫣 of the Dashboard
 
